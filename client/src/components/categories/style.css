@@ -1,0 +1,4 @@
+.category-item {
+  @apply bg-green-700 px-6 py-10 text-white cursor-pointer hover:bg-pink-700 transition-all text-center flex items-center justify-center;
+} 
+/*  @apply:tailwind.css uygulanmasını sağlar*/
